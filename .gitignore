@@ -1,0 +1,6 @@
+__pycache__/
+chrome_profile/
+spoc_log.txt
+snapshots/
+heartbeat.txt
+*.log
