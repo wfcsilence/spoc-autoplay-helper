@@ -1,4 +1,4 @@
-# 北师大SPOC自动刷视频助手(雨课堂)
+# 北师大SPOC自动刷视频助手(长江雨课堂)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Version](https://img.shields.io/badge/version-4.2-green)](#版本历史)
